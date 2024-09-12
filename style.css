@@ -1,4 +1,27 @@
 body {
-    color:black;
-    background:palevioletred;
+    color: black;
+    background: palevioletred;
+    margin: 0px;
+}
+
+header {
+    border-bottom: solid 2px black;
+    padding: 20px;
+    font-size: 32px;
+    color: black;
+    background: rgb(128 35 211 / 39%);
+
+}
+
+section {
+    background: rgb(184, 156, 213);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+
+}
+
+div {
+    margin-right: 20px;
 }
